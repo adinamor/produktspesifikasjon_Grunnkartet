@@ -1,7 +1,7 @@
 metadataId: 28c28e3a-d88f-4a34-8c60-5efe6d56a44d
 output_directory: produktspesifikasjon
 product_slug: nasjonalt_grunnkart_for_arealanalyse
-updated: '2026-09-14'
+updated: '2026-09-21'
 outputs: geopackage
 scopes:
 - name: SOSI Datamodell for Grunnkartet
