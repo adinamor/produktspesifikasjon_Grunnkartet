@@ -193,7 +193,7 @@ Kommunal- og distriktsdepartementet (KDD) publiserte i 2023 en veileder for area
 | Atom Feed | [Lenke](http://nedlasting.geonorge.no/geonorge/ATOM-feeds/GrunnkartArealanalyse_AtomFeedFGDB.xml) | W3C:AtomFeed | FGDB | fylkesvis, kommunevis, landsfiler |
 | Atom Feed | [Lenke](http://nedlasting.geonorge.no/geonorge/ATOM-feeds/GrunnkartArealanalyse_AtomFeedGML.xml) | W3C:AtomFeed | GML | fylkesvis, kommunevis, landsfiler |
 | Atom Feed | [Lenke](http://nedlasting.geonorge.no/geonorge/ATOM-feeds/GrunnkartArealanalyse_AtomFeedGPKG.xml) | W3C:AtomFeed | GPKG | fylkesvis, kommunevis, landsfiler |
-| Nasjonalt grunnkart for arealanalyse WMS - årsversjon 2025 | [Lenke](https://wms.nibio.no/cgi-bin/grunnkart_arealanalyse?service=WMS&request=GetCapabilities) | WMS-tjeneste | OGC WMS |  |
+| Nasjonalt grunnkart for arealanalyse WMS - årsversjon 2025 | [Lenke](https://experience.arcgis.com/experience/227d65ace8824f9f8a55dbfa5abec002) | WMS-tjeneste | OGC WMS |  |
 | GeoPackage: sosi-datamodell-for-grunnkartet | [Lenke](https://raw.githubusercontent.com/adinamor/produktspesifikasjon_Grunnkartet/main/produktspesifikasjon/nasjonalt-grunnkart-for-arealanalyse/sosi-datamodell-for-grunnkartet/sosi-datamodell-for-grunnkartet.gpkg) | Nedlasting | GPKG |  |
 
 ## Metadata
@@ -202,7 +202,7 @@ Kommunal- og distriktsdepartementet (KDD) publiserte i 2023 en veileder for area
 
 **Metadatastandardversjon**: 2003
 
-**Metadatadato**: 2026-09-14
+**Metadatadato**: 2026-09-21
 
 **språk**: nor
 
@@ -237,4 +237,4 @@ For spørsmål knyttet til Arealdekke: gisdrift@nibio.no
 For spørsmål knyttet til Økosystemtype: post@miljodir.no
 
 - **Produktark:** [https://register.geonorge.no/produktark/nasjonalt-grunnkart-for-arealanalyse-årsversjon-2025](https://register.geonorge.no/produktark/nasjonalt-grunnkart-for-arealanalyse-årsversjon-2025)
-- **Produktside:** [https://nibio.brage.unit.no/nibio-xmlui/handle/11250/3120510](https://nibio.brage.unit.no/nibio-xmlui/handle/11250/3120510)
+- **Produktside:** [https://www.miljodirektoratet.no/ansvarsomrader/overvaking-arealplanlegging/arealplanlegging/nasjonalt-grunnkart-for-arealanalyse/](https://www.miljodirektoratet.no/ansvarsomrader/overvaking-arealplanlegging/arealplanlegging/nasjonalt-grunnkart-for-arealanalyse/)
