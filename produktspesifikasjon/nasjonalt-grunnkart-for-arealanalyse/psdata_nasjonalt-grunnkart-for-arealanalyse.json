@@ -263,7 +263,7 @@
         "deliveryMedium": {
           "deliveryMediumName": "Nasjonalt grunnkart for arealanalyse WMS - årsversjon 2025",
           "deliveryService": {
-            "serviceEndpoint": "https://wms.nibio.no/cgi-bin/grunnkart_arealanalyse?service=WMS&request=GetCapabilities",
+            "serviceEndpoint": "https://experience.arcgis.com/experience/227d65ace8824f9f8a55dbfa5abec002",
             "serviceProperty": {
               "type": "Nasjonalt grunnkart for arealanalyse WMS - årsversjon 2025",
               "value": "WMS-tjeneste"
@@ -302,7 +302,7 @@
   "metadataSection": {
     "metadataStandard": "ISO19115",
     "metadataStandardVersion": "2003",
-    "metadataDate": "2026-09-14",
+    "metadataDate": "2026-09-21",
     "language": "nor",
     "contact": {
       "organizationName": "Kartverket",
@@ -325,7 +325,7 @@
     },
     {
       "title": "Produktside",
-      "href": "https://nibio.brage.unit.no/nibio-xmlui/handle/11250/3120510"
+      "href": "https://www.miljodirektoratet.no/ansvarsomrader/overvaking-arealplanlegging/arealplanlegging/nasjonalt-grunnkart-for-arealanalyse/"
     }
   ]
 }
